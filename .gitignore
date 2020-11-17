@@ -1,0 +1,11 @@
+# Dev Directories
+__pycache__/
+venv/
+.idea/
+
+# Coverage
+htmlcov/
+.coverage
+
+# Spec
+spec/
