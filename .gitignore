@@ -1,11 +1,13 @@
-# Dev Directories
+# Dev
 __pycache__/
 venv/
 .idea/
 
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+
 # Coverage
 htmlcov/
 .coverage
-
-# Spec
-spec/
