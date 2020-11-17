@@ -1,0 +1,9 @@
+[FORMAT]
+max-line-length=120
+
+[MESSAGES CONTROL]
+disable=missing-class-docstring,missing-module-docstring,missing-function-docstring,invalid-name,too-many-arguments,
+    too-many-instance-attributes,too-few-public-methods,too-many-branches,too-many-public-methods
+
+[MISCELLANOUS]
+notes=
